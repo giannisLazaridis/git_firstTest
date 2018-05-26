@@ -4,5 +4,7 @@ public class git_test {
 		System.out.println("Hello git");
 
 		System.out.println("test git");
+
+		System.out.println("another test");
 	}
 }
